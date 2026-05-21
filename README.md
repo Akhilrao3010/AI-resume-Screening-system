@@ -1,3 +1,4 @@
+<img width="759" height="489" alt="AI RESUME SCREENING SYSTEM USING NLP" src="https://github.com/user-attachments/assets/e4232058-c3eb-49f8-adbf-54d983ac3c69" />
 
 # AI Resume Screening System
 
