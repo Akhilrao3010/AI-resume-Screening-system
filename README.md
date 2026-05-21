@@ -24,4 +24,4 @@
 ```bash
 pip install streamlit pandas scikit-learn PyPDF2 sentence-transformers
 
-python -m streamlit run app.py<img width="759" height="489" alt="AI RESUME SCREENING SYSTEM USING NLP" src="https://github.com/user-attachments/assets/8b0bf126-87a6-4361-a9a8-65ab26c56d9c" />
+python -m streamlit run app.py
